@@ -1,4 +1,5 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
+import { Book } from '../../models/book.interface';
 
 @Component({
   selector: 'app-book-catalog',
