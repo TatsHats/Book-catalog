@@ -1,0 +1,100 @@
+[
+  {
+    "id": "the-great-gatsby",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "description": "A story of wealth, love, and tragedy in the Jazz Age, centered around the mysterious Jay Gatsby and his obsession with Daisy Buchanan."
+  },
+  {
+    "id": "harry-potter-and-the-sorcerers-stone",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "year": 1997,
+    "description": "The first book in the Harry Potter series, introducing the young wizard Harry Potter and his adventures at Hogwarts School of Witchcraft and Wizardry."
+  },
+  {
+    "id": "to-kill-a-mockingbird",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "description": "A profound novel exploring racial injustice and moral growth in the American South through the eyes of young Scout Finch."
+  },
+  {
+    "id": "pride-and-prejudice",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "description": "A classic romance that critiques the social norms of 19th-century England, focusing on the spirited Elizabeth Bennet and her relationship with Mr. Darcy."
+  },
+  {
+    "id": "the-hobbit",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "description": "Bilbo Baggins embarks on an unexpected journey filled with dragons, dwarves, and treasure in this beloved fantasy adventure."
+  },
+  {
+    "id": "moby-dick",
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "description": "Captain Ahab's obsessive quest to hunt the great white whale, Moby Dick, explores themes of revenge and fate."
+  },
+  {
+    "id": "the-catcher-in-the-rye",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "description": "A teenage boy named Holden Caulfield recounts his struggles with identity and belonging in postwar America."
+  },
+  {
+    "id": "the-lord-of-the-rings",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "description": "The epic first part of the trilogy where Frodo begins his quest to destroy the One Ring and save Middle-earth."
+  },
+  {
+    "id": "jane-eyre",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "year": 1847,
+    "description": "A strong-willed governess, Jane Eyre, overcomes hardships and finds love with the mysterious Mr. Rochester."
+  },
+  {
+    "id": "animal-farm",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": 1945,
+    "description": "An allegorical novella that satirizes totalitarian regimes through a story about farm animals revolting against their human farmer."
+  },
+  {
+    "id": "the-chronicles-of-narnia",
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "year": 1950,
+    "description": "Four siblings discover a magical world inside a wardrobe, where they join the fight against the evil White Witch."
+  },
+  {
+    "id": "wuthering-heights",
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year": 1847,
+    "description": "A dark and passionate tale of love and revenge between Catherine Earnshaw and Heathcliff on the Yorkshire moors."
+  },
+  {
+    "id": "the-da-vinci-code",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "year": 2003,
+    "description": "A thrilling mystery that follows Robert Langdon as he uncovers secrets hidden in famous works of art."
+  },
+  {
+    "id": "the-alchemist",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "description": "A young shepherd named Santiago embarks on a journey to find his personal legend and fulfill his dreams."
+  }
+]
