@@ -1,6 +1,4 @@
-<p>book-catalog works!</p>
-
-<table mat-table [dataSource]="books">
+<table mat-table [dataSource]="(books$ | async) || []">
     <ng-container matColumnDef="title">
         <th mat-header-cell *matHeaderCellDef> Title </th>
         <td mat-cell *matCellDef="let book"> {{book.title}} </td>
