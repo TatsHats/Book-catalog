@@ -1,4 +1,14 @@
-<table mat-table [dataSource]="(books$ | async) || []">
+<div class="settings">
+  <button (click)="openModal()">Add book</button>
+  
+  <input
+    type="text"
+    placeholder="search..."
+    [formControl]="searchControl"
+  />
+</div>
+
+<table mat-table [dataSource]="searchBooks">
     <ng-container matColumnDef="title">
         <th mat-header-cell *matHeaderCellDef> Title </th>
         <td mat-cell *matCellDef="let book" (click)="openDetail(book.id)"> {{book.title}} </td>

@@ -1,4 +1,25 @@
+.settings {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+
+    input, button {
+        padding: 10px 30px;
+    }
+
+    button {
+        background-color: transparent;
+        border: 1px solid black;
+
+        &:hover {
+            background-color: aliceblue;
+        }
+    }
+}
+
 table {
+    padding: 10px;
+
     th {
         font-weight: 700;
     }

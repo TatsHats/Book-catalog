@@ -1,0 +1,32 @@
+h2, form {
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    padding: 5px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+
+    button {
+        padding: 10px 20px;
+        background-color: transparent;
+        border: 1px solid black;
+
+        &:hover {
+            background-color: aliceblue;
+        }
+    }
+}
