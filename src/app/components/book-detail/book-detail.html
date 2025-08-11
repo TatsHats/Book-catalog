@@ -1,1 +1,9 @@
-<p>book-detail works!</p>
+<div class="book-detail">
+    <img src="book.png" alt=" book image">
+    <h1>{{ book.title }}</h1>
+    <h3>{{ book.author }} - {{ book.year }}</h3>
+    <p>{{ book.description }}</p>
+
+    <button (click)="openCatalog()">Back to catalog</button>
+</div>
+

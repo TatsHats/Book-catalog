@@ -1,0 +1,13 @@
+table {
+    th {
+        font-weight: 700;
+    }
+
+    td {
+        cursor: pointer;
+
+        &:hover {
+            font-weight: 700;
+        }
+    }
+}
